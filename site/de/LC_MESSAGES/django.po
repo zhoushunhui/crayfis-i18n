@@ -20,19 +20,19 @@ msgstr ""
 
 #: monitor/templates/monitor/map.html:58
 msgid "Network Map"
-msgstr "Netzwerkkarte"
+msgstr "网络地图"
 
 #: monitor/templates/monitor/map.html:65
 msgid "National Ranking"
-msgstr "Nationalen Ranking"
+msgstr "国内排名"
 
 #: templates/bootstrap/allauth/account/base.html:8
 msgid "My Account"
-msgstr ""
+msgstr "我的帐户"
 
 #: templates/bootstrap/allauth/account/base.html:12
 msgid "E-mail Addresses"
-msgstr ""
+msgstr "电子邮件地址"
 
 #: templates/bootstrap/allauth/account/base.html:15
 #: templates/bootstrap/allauth/account/password_change.html:6
@@ -41,81 +41,81 @@ msgstr ""
 #: templates/bootstrap/allauth/account/password_reset_from_key.html:10
 #: templates/bootstrap/allauth/account/password_reset_from_key.html:22
 msgid "Change Password"
-msgstr ""
+msgstr "修改密码"
 
 #: templates/bootstrap/allauth/account/base.html:20
 #: templates/bootstrap/allauth/socialaccount/connections.html:5
 msgid "Connected Accounts"
-msgstr ""
+msgstr "已连接帐户 "
 
 #: templates/bootstrap/allauth/account/email.html:7
 #: templates/bootstrap/allauth/socialaccount/connections.html:34
 msgid "Account"
-msgstr ""
+msgstr "账户"
 
 #: templates/bootstrap/allauth/account/email.html:14
 msgid "The following e-mail addresses are associated to your account:"
-msgstr ""
+msgstr "以下的电子邮件地址与您的帐户相关联:"
 
 #: templates/bootstrap/allauth/account/email.html:23
 msgid "E-mail"
-msgstr ""
+msgstr "电子邮件"
 
 #: templates/bootstrap/allauth/account/email.html:26
 msgid "Status"
-msgstr ""
+msgstr "身份"
 
 #: templates/bootstrap/allauth/account/email.html:41
 msgid "Verified"
-msgstr ""
+msgstr "已验证"
 
 #: templates/bootstrap/allauth/account/email.html:43
 msgid "Unverified"
-msgstr ""
+msgstr "未经验证"
 
 #: templates/bootstrap/allauth/account/email.html:45
 msgid "Primary"
-msgstr ""
+msgstr 个人的"
 
 #: templates/bootstrap/allauth/account/email.html:53
 msgid "Make Primary"
-msgstr ""
+msgstr "个人化
 
 #: templates/bootstrap/allauth/account/email.html:54
 msgid "Re-send Verification"
-msgstr ""
+msgstr "重发验证"
 
 #: templates/bootstrap/allauth/account/email.html:55
 #: templates/bootstrap/allauth/socialaccount/connections.html:58
 msgid "Remove"
-msgstr ""
+msgstr "移动"
 
 #: templates/bootstrap/allauth/account/email.html:62
 msgid "Warning:"
-msgstr ""
+msgstr "提示："
 
 #: templates/bootstrap/allauth/account/email.html:62
 msgid ""
 "You currently do not have any e-mail address set up. You should really add "
 "an e-mail address so you can receive notifications, reset your password, etc."
-msgstr ""
+msgstr "您的账户还没有与电子邮箱关联，你应该添加一个邮箱用来用来收到通知以及重置密码等。"
 
 #: templates/bootstrap/allauth/account/email.html:67
 msgid "Add E-mail Address"
-msgstr ""
+msgstr "添加电子邮件地址"
 
 #: templates/bootstrap/allauth/account/email.html:73
 msgid "Add E-mail"
-msgstr ""
+msgstr "添加电子邮件账户"
 
 #: templates/bootstrap/allauth/account/email.html:84
 msgid "Do you really want to remove the selected e-mail address?"
-msgstr ""
+msgstr "确定删除已经选择的电子邮件地址？"
 
 #: templates/bootstrap/allauth/account/email_confirm.html:7
 #: templates/bootstrap/allauth/account/email_confirm.html:11
 msgid "Confirm E-mail Address"
-msgstr ""
+msgstr "确定电子邮件地址"
 
 #: templates/bootstrap/allauth/account/email_confirm.html:17
 #, python-format
@@ -126,7 +126,7 @@ msgstr ""
 
 #: templates/bootstrap/allauth/account/email_confirm.html:21
 msgid "Confirm"
-msgstr ""
+msgstr "确定"
 
 #: templates/bootstrap/allauth/account/email_confirm.html:28
 #, python-format
@@ -139,7 +139,7 @@ msgstr ""
 #: templates/bootstrap/allauth/account/login.html:13
 #: templates/bootstrap/allauth/account/login.html:42
 msgid "Sign In"
-msgstr ""
+msgstr "登录"
 
 #: templates/bootstrap/allauth/account/login.html:16
 #, python-format
@@ -153,44 +153,44 @@ msgstr ""
 
 #: templates/bootstrap/allauth/account/login.html:27
 msgid "or"
-msgstr ""
+msgstr "或者"
 
 #: templates/bootstrap/allauth/account/login.html:43
 msgid "Forgot Password?"
-msgstr ""
+msgstr "忘记密码？"
 
 #: templates/bootstrap/allauth/account/logout.html:6
 #: templates/bootstrap/allauth/account/logout.html:9
 #: templates/bootstrap/allauth/account/logout.html:18
 msgid "Sign Out"
-msgstr ""
+msgstr "退出"
 
 #: templates/bootstrap/allauth/account/logout.html:11
 msgid "Are you sure you want to sign out?"
-msgstr ""
+msgstr "确定退出？"
 
 #: templates/bootstrap/allauth/account/password_reset.html:7
 #: templates/bootstrap/allauth/account/password_reset.html:11
 msgid "Password Reset"
-msgstr ""
+msgstr "重置密码"
 
 #: templates/bootstrap/allauth/account/password_reset.html:16
 msgid ""
 "Forgotten your password? Enter your e-mail address below, and we'll send you "
 "an e-mail allowing you to reset it."
-msgstr ""
+msgstr "忘记密码？在下面输入你的电子邮箱地址，然后我们会给您的邮箱中发一个邮件指引您重置密码。"
 
 #: templates/bootstrap/allauth/account/password_reset.html:22
 msgid "Reset My Password"
-msgstr ""
+msgstr "重置我的密码"
 
 #: templates/bootstrap/allauth/account/password_reset.html:26
 msgid "Please contact us if you have any trouble resetting your password."
-msgstr ""
+msgstr "如果您在重置密码的过中遇到任何问题，请与我们联系。"
 
 #: templates/bootstrap/allauth/account/password_reset_from_key.html:10
 msgid "Bad Token"
-msgstr ""
+msgstr "错误密码"
 
 #: templates/bootstrap/allauth/account/password_reset_from_key.html:14
 #, python-format
@@ -202,24 +202,24 @@ msgstr ""
 
 #: templates/bootstrap/allauth/account/password_reset_from_key.html:26
 msgid "Your password is now changed."
-msgstr ""
+msgstr "您密码现在已成功更改了。"
 
 #: templates/bootstrap/allauth/account/password_set.html:6
 #: templates/bootstrap/allauth/account/password_set.html:14
 msgid "Set Password"
-msgstr ""
+msgstr "设置密码"
 
 #: templates/bootstrap/allauth/account/signup.html:7
 #: templates/bootstrap/allauth/socialaccount/signup.html:6
 msgid "Signup"
-msgstr ""
+msgstr "登录"
 
 #: templates/bootstrap/allauth/account/signup.html:10
 #: templates/bootstrap/allauth/account/signup.html:21
 #: templates/bootstrap/allauth/socialaccount/signup.html:9
 #: templates/bootstrap/allauth/socialaccount/signup.html:21
 msgid "Sign Up"
-msgstr ""
+msgstr "登录"
 
 #: templates/bootstrap/allauth/account/signup.html:12
 #, python-format
@@ -231,15 +231,15 @@ msgstr ""
 msgid ""
 "You can sign in to your account using any of the following third party "
 "accounts:"
-msgstr ""
+msgstr "您可以使用以下任意三种方式之一来登录账号："
 
 #: templates/bootstrap/allauth/socialaccount/connections.html:31
 msgid "Provider"
-msgstr ""
+msgstr "提供者"
 
 #: templates/bootstrap/allauth/socialaccount/connections.html:67
 msgid "None!"
-msgstr ""
+msgstr "账号不存在"
 
 #: templates/bootstrap/allauth/socialaccount/connections.html:67
 msgid ""
@@ -248,7 +248,7 @@ msgstr ""
 
 #: templates/bootstrap/allauth/socialaccount/connections.html:71
 msgid "Add a 3rd Party Account"
-msgstr ""
+msgstr "添加第三方账户"
 
 #: templates/bootstrap/allauth/socialaccount/signup.html:11
 #, python-format
