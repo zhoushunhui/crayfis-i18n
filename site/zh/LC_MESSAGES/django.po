@@ -24,6 +24,10 @@ msgid ""
 "world-wide array of existing smartphones instead of building an expensive "
 "dedicated detector. <p>"
 msgstr ""
+"<h1>关于CRAYFIS</h1> <p>  CRAYFIS 这个项目是一个新奇的有关于 "
+"观察高能宇宙射线粒子流的项目. <p> 它使用 "
+"全世界的智能手机来代昂贵仪器来 "
+"作为探测器. <p>"
 
 #: monitor/templates/monitor/about.html:43
 msgid ""
