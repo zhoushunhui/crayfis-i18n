@@ -193,7 +193,7 @@ msgstr "您确认要删除所选的电子邮箱地址吗？"
 #: templates/bootstrap/allauth/account/email_confirm.html:7
 #: templates/bootstrap/allauth/account/email_confirm.html:11
 msgid "Confirm E-mail Address"
-msgstr "确认电子邮箱地址"
+msgstr "确认电子邮箱地址".
 
 #: templates/bootstrap/allauth/account/email_confirm.html:17
 #, python-format
